@@ -1,0 +1,18 @@
+CUCUMBER BDD
+
+BDD is behavioral driven development. u r defining the use case or test case. gherkin is a language to define bdd framework
+cucumber is available with JVM also Ruby.
+
+one of the best tool jbehave is also bdd framework. Cucumber is very famous u can implete with API automation.
+
+Components :
+
+Feature File : extention is .Feature File for e.g. 
+Keyword given, when then, as but
+Scenario 
+Scenario Outline
+
+Step Definition File : Corrponding code will write in this file. we are using Selenium Java Annotations
+
+
+TestRunner : To run your feature test and to generate the output/ report we are going to use TestRunnerWe have to create class we are using junit
